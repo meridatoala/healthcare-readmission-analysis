@@ -18,6 +18,11 @@ Google Colab
 
 **Key Insights**
 
+- Readmission rates increase with patient age, particularly among older populations
+- Higher medication counts are associated with increased readmission risk, suggesting greater treatment complexity
+- Patients with frequent hospital visits demonstrate significantly higher readmission rates, indicating high-risk segments
+- Variability in extreme values reflects smaller sample sizes, requiring cautious interpretation
+
 **Recommendations**
 
 
