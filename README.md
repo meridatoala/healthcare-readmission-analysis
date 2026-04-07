@@ -10,6 +10,12 @@ Python (Pandas, Scikit-learn),
 Tableau,
 Google Colab
 
+**📁 Project Structure**
+
+- data/ → raw dataset
+- notebooks/ → analysis code
+- dashboard/ → visualizations
+
 **Key Insights**
 
 **Recommendations**
