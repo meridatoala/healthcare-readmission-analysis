@@ -46,5 +46,5 @@ These recommendations aim to improve patient outcomes while reducing hospital co
 ## 📊 Interactive Dashboard
 [View Tableau Dashboard] https://public.tableau.com/app/profile/merida.toala/viz/HospitalReadmissionRiskAnalysis_17752591205010/Dashboard1?publish=yes
 
-## Dashboard Preview
-![Dashboard](data/dashboard/dashboard.png)
+## 📊 Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
