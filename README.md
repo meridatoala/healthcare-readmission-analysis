@@ -23,6 +23,11 @@ Google Colab
 - Patients with frequent hospital visits demonstrate significantly higher readmission rates, indicating high-risk segments
 - Variability in extreme values reflects smaller sample sizes, requiring cautious interpretation
 
+## 📊 Key Metrics
+- Total records analyzed: ~100,000+
+- Readmission rate: ~11%
+
+  
 ## 💡 Recommendations
 
 Based on the analysis, several strategies can be implemented to reduce hospital readmissions:
