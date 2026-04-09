@@ -5,7 +5,7 @@ Analyzing hospital readmissions to identify high risk patients and improve outco
 
 **Tools Used**
 
-SQL
+
 Python (Pandas, Scikit-learn),
 Tableau,
 Google Colab
